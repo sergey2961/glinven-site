@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glinven.com/sitemap.xml
